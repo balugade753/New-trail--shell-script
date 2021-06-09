@@ -1,1 +1,7 @@
 echo hello world
+
+
+# Printing multiple lines
+
+echo line1
+echo line2
