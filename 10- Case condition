@@ -1,0 +1,12 @@
+ACTION=$1
+case $ACTION in
+    start)
+        echo "starting service"
+        exit 0
+        ;;
+    stop)
+        echo "Stopping service"
+        exit 0
+        ;;
+esac
+
