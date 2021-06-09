@@ -1,1 +1,8 @@
 echo -e "\e[33mHello world in yellow foreground color"
+
+
+##disabling color
+
+
+echo -e "\e[33mhello world in yellow foreground color\e[0m"
+
