@@ -1,6 +1,7 @@
 #!/bin/env bash
 
 
-read -p 'Enter Course Name: ' $1
+read -p 'Enter Course Name: ' Course_name
 
 echo -e "Course Name = ${$1}\n${$1} training timinings = 8 PM\n${$1} course trainer name = Balu"
+
