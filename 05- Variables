@@ -4,7 +4,7 @@
 
 #echo -e " I have two shifts in the coming week:\n\t1. Monday and\n\t2. Tuesday"
 
-Course_name = AWS
+Course_name=AWS
 
 echo "Welcome to the course $Course_name training"
 echo -e "The training timings for the $Course_name are\n\t1. 8PM\n\t2. 6AM"
