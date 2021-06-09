@@ -1,5 +1,19 @@
+#!/bin/env bash
+
+## Basic function syntax
+
 SAMPLE() {
     echo "I am a sample function"
 }
 
 SAMPLE
+
+
+## Special Functions 
+
+DEMO() {
+    echo "First argument of fucntion = $1"
+}
+
+DEMO "abc"
+
