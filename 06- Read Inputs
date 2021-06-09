@@ -1,7 +1,10 @@
 #!/bin/env bash
 
+## READ INPUTS
+
 read -p 'Enter Course Name: ' Course_name
 
 echo -e "Course Name = ${Course_name}\n${Course_name} training timinings = 8 PM\n${Course_name} course trainer name = Balu"
 
-\
+
+
