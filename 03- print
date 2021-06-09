@@ -5,3 +5,8 @@ echo hello world
 
 echo line1
 echo line2
+
+## printing multiple lines with single echo command
+
+echo -e "line1\nline2"
+
