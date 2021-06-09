@@ -10,6 +10,8 @@ echo "Welcome to the course $Course_name training"
 echo -e "The training timings for the $Course_name are\n\t1. 8PM\n\t2. 6AM"
 echo -e "The trainer name for $Course_name training is : BALU"
 
+## Environment Variables
 
+echo "course name = $Course_name"
 
  
