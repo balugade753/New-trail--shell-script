@@ -1,0 +1,5 @@
+SAMPLE() {
+    echo "I am a sample function"
+}
+
+SAMPLE
